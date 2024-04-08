@@ -1,0 +1,40 @@
+D:\телефон\Phones and abonents\bin\Debug\Phones and abonents.exe.config
+D:\телефон\Phones and abonents\bin\Debug\Phones and abonents.exe
+D:\телефон\Phones and abonents\bin\Debug\Phones and abonents.pdb
+D:\телефон\Phones and abonents\bin\Debug\MySql.Data.dll
+D:\телефон\Phones and abonents\bin\Debug\System.Memory.dll
+D:\телефон\Phones and abonents\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\телефон\Phones and abonents\bin\Debug\System.Numerics.Vectors.dll
+D:\телефон\Phones and abonents\bin\Debug\System.Buffers.dll
+D:\телефон\Phones and abonents\bin\Debug\MySql.Data.xml
+D:\телефон\Phones and abonents\obj\Debug\Phones and abonents.csproj.AssemblyReference.cache
+D:\телефон\Phones and abonents\obj\Debug\Phones_and_abonents.Form1.resources
+D:\телефон\Phones and abonents\obj\Debug\Phones_and_abonents.Properties.Resources.resources
+D:\телефон\Phones and abonents\obj\Debug\Phones and abonents.csproj.GenerateResource.cache
+D:\телефон\Phones and abonents\obj\Debug\Phones and abonents.csproj.CoreCompileInputs.cache
+D:\телефон\Phones and abonents\obj\Debug\Phones and abonents.csproj.CopyComplete
+D:\телефон\Phones and abonents\obj\Debug\Phones and abonents.exe
+D:\телефон\Phones and abonents\obj\Debug\Phones and abonents.pdb
+D:\телефон\Phones and abonents\obj\Debug\Phones_and_abonents.Form2.resources
+D:\телефон\Phones and abonents\obj\Debug\Phones_and_abonents.Form3.resources
+D:\телефон\Phones and abonents\obj\Debug\Phones_and_abonents.Form4.resources
+E:\телефон\Phones and abonents\bin\Debug\Phones and abonents.exe.config
+E:\телефон\Phones and abonents\bin\Debug\Phones and abonents.exe
+E:\телефон\Phones and abonents\bin\Debug\Phones and abonents.pdb
+E:\телефон\Phones and abonents\bin\Debug\MySql.Data.dll
+E:\телефон\Phones and abonents\bin\Debug\System.Memory.dll
+E:\телефон\Phones and abonents\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\телефон\Phones and abonents\bin\Debug\System.Numerics.Vectors.dll
+E:\телефон\Phones and abonents\bin\Debug\System.Buffers.dll
+E:\телефон\Phones and abonents\bin\Debug\MySql.Data.xml
+E:\телефон\Phones and abonents\obj\Debug\Phones and abonents.csproj.AssemblyReference.cache
+E:\телефон\Phones and abonents\obj\Debug\Phones_and_abonents.Form1.resources
+E:\телефон\Phones and abonents\obj\Debug\Phones_and_abonents.Form2.resources
+E:\телефон\Phones and abonents\obj\Debug\Phones_and_abonents.Form3.resources
+E:\телефон\Phones and abonents\obj\Debug\Phones_and_abonents.Form4.resources
+E:\телефон\Phones and abonents\obj\Debug\Phones_and_abonents.Properties.Resources.resources
+E:\телефон\Phones and abonents\obj\Debug\Phones and abonents.csproj.GenerateResource.cache
+E:\телефон\Phones and abonents\obj\Debug\Phones and abonents.csproj.CoreCompileInputs.cache
+E:\телефон\Phones and abonents\obj\Debug\Phones and abonents.csproj.CopyComplete
+E:\телефон\Phones and abonents\obj\Debug\Phones and abonents.exe
+E:\телефон\Phones and abonents\obj\Debug\Phones and abonents.pdb
